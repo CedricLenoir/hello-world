@@ -1,2 +1,3 @@
 # hello-world
-Doing tutorial
+Doing tutorial,
+hope to learn more about MQTT and Node Red
